@@ -4,4 +4,5 @@
     echo "こんばんは";
     echo "おはようございます";
     echo "こんにちは";
+    echo "HELLO PHP";
 ?>
